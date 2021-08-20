@@ -1,2 +1,1 @@
-# tindog-startup
-A website to find the love of your dogs
+TinDog Starting Files
